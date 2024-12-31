@@ -69,7 +69,7 @@ Upload your own content and style images to create unique artwork! Below is an e
 
 | **Content Image** | **Style Image** | **Output Image** |
 |--------------------|-----------------|------------------|
-| <img src="images/dog1.jpeg" alt="content" width="275"/> | <img src="images/style.jpg" alt="style" width="275"/> | <img src="images/doggo.png" alt="output" width="275"/> |
+| <img src="images/dog1.jpeg" alt="content" width="300"/> | <img src="images/style.jpg" alt="style" width="300"/> | <img src="images/doggo.png" alt="output" width="300"/> |
 
 ---
 
