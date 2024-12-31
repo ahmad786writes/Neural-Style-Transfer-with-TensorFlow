@@ -3,6 +3,7 @@
 This project demonstrates **Neural Style Transfer (NST)**, a technique to blend the artistic style of one image with the content of another image using a pre-trained **VGG19** model as the feature extractor.
 
 ---
+![Architecture](images/style_transfer_architecture.png)
 
 ## Features
 
@@ -68,7 +69,7 @@ Upload your own content and style images to create unique artwork! Below is an e
 
 | **Content Image** | **Style Image** | **Output Image** |
 |--------------------|-----------------|------------------|
-| ![content](dog1.jpeg) | ![style](style.jpg) | ![output](doggo.png) |
+| ![content](images/dog1.jpeg) | ![style](images/style.jpg) | ![output](images/doggo.png) |
 
 ---
 
